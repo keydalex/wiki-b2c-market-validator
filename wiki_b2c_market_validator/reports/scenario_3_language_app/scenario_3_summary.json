@@ -1,0 +1,242 @@
+{
+  "target_topic": "English language",
+  "timeframe": {
+    "start": "20240926",
+    "end": "20260926",
+    "years": 2.0
+  },
+  "benchmark_topic": null,
+  "tam_proxy": {
+    "rai": 0.6667,
+    "tam_proxy_usd": 5666950.0,
+    "relative_share_pct": 40.0,
+    "market_scale_category": "Viable Niche (25-75% of benchmark)",
+    "target_views": 732632,
+    "benchmark_views": 1098948
+  },
+  "results_by_language": {
+    "es": {
+      "status": "SUCCESS",
+      "article_title": "Idioma_inglés",
+      "is_exact_sitelink": false,
+      "total_views": 732632,
+      "mean_daily_views": 1002.2,
+      "cagr": -28.85,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.8187,
+      "trust_score": 73.6,
+      "trust_level": "Moderate Trust",
+      "bot_ratio": 0.2309,
+      "academic_seasonality_index": 1.25,
+      "seasonality_type": "Moderate Academic Cyclical",
+      "spikes_detected": 70,
+      "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+      "trust_audit": {
+        "trust_score": 73.6,
+        "trust_level": "Moderate Trust",
+        "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+        "sub_scores": {
+          "human_integrity_score": 76.9,
+          "organic_continuity_score": 86.8,
+          "community_curation_score": 100.0,
+          "macro_outperformance_score": 25.0
+        },
+        "penalties": []
+      }
+    },
+    "de": {
+      "status": "SUCCESS",
+      "article_title": "Englische_Sprache",
+      "is_exact_sitelink": false,
+      "total_views": 586933,
+      "mean_daily_views": 802.9,
+      "cagr": -10.1,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.2315,
+      "trust_score": 62.3,
+      "trust_level": "Moderate Trust",
+      "bot_ratio": 0.7414,
+      "academic_seasonality_index": 1.13,
+      "seasonality_type": "Evergreen (Stable year-round demand)",
+      "spikes_detected": 43,
+      "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+      "trust_audit": {
+        "trust_score": 62.3,
+        "trust_level": "Moderate Trust",
+        "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+        "sub_scores": {
+          "human_integrity_score": 25.9,
+          "organic_continuity_score": 93.0,
+          "community_curation_score": 100.0,
+          "macro_outperformance_score": 50.0
+        },
+        "penalties": []
+      }
+    },
+    "pl": {
+      "status": "SUCCESS",
+      "article_title": "Język_angielski",
+      "is_exact_sitelink": false,
+      "total_views": 213863,
+      "mean_daily_views": 292.6,
+      "cagr": -20.63,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.1697,
+      "trust_score": 74.7,
+      "trust_level": "Moderate Trust",
+      "bot_ratio": 0.2215,
+      "academic_seasonality_index": 1.18,
+      "seasonality_type": "Moderate Academic Cyclical",
+      "spikes_detected": 52,
+      "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+      "trust_audit": {
+        "trust_score": 74.7,
+        "trust_level": "Moderate Trust",
+        "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+        "sub_scores": {
+          "human_integrity_score": 77.8,
+          "organic_continuity_score": 89.7,
+          "community_curation_score": 100.0,
+          "macro_outperformance_score": 25.0
+        },
+        "penalties": []
+      }
+    },
+    "uk": {
+      "status": "SUCCESS",
+      "article_title": "Англійська_мова",
+      "is_exact_sitelink": false,
+      "total_views": 199436,
+      "mean_daily_views": 272.8,
+      "cagr": -43.73,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.3411,
+      "trust_score": 63.4,
+      "trust_level": "Moderate Trust",
+      "bot_ratio": 0.2579,
+      "academic_seasonality_index": 1.48,
+      "seasonality_type": "Strong Academic / School Cyclical (Demand peaks in school year, dips in summer)",
+      "spikes_detected": 55,
+      "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+      "trust_audit": {
+        "trust_score": 63.4,
+        "trust_level": "Moderate Trust",
+        "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+        "sub_scores": {
+          "human_integrity_score": 74.2,
+          "organic_continuity_score": 89.7,
+          "community_curation_score": 100.0,
+          "macro_outperformance_score": 25.0
+        },
+        "penalties": [
+          "High academic seasonality (ASI=1.48): Traffic spikes during school months and crashes in summer."
+        ]
+      }
+    },
+    "ja": {
+      "status": "SUCCESS",
+      "article_title": "英語",
+      "is_exact_sitelink": false,
+      "total_views": 941367,
+      "mean_daily_views": 1287.8,
+      "cagr": -16.13,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.6119,
+      "trust_score": 75.0,
+      "trust_level": "High Trust",
+      "bot_ratio": 0.2325,
+      "academic_seasonality_index": 1.07,
+      "seasonality_type": "Evergreen (Stable year-round demand)",
+      "spikes_detected": 47,
+      "recommendation": "Data signal is clean, organic, and reliable for commercial product decisions.",
+      "trust_audit": {
+        "trust_score": 75.0,
+        "trust_level": "High Trust",
+        "recommendation": "Data signal is clean, organic, and reliable for commercial product decisions.",
+        "sub_scores": {
+          "human_integrity_score": 76.8,
+          "organic_continuity_score": 92.5,
+          "community_curation_score": 100.0,
+          "macro_outperformance_score": 25.0
+        },
+        "penalties": []
+      }
+    }
+  },
+  "localization_ranking": [
+    {
+      "lang": "ja",
+      "article_title": "英語",
+      "views": 941367,
+      "growth_pct": -16.13,
+      "trust_score": 75.0,
+      "volume_index": 100.0,
+      "velocity_index": 82.06958073148975,
+      "trust_index": 75.0,
+      "priority_score": 87.8,
+      "quadrant": "High-Growth Star (Priority 1: GO)",
+      "action_recommendation": "Strong volume and clean momentum. Launch localization.",
+      "rank": 1
+    },
+    {
+      "lang": "de",
+      "article_title": "Englische_Sprache",
+      "views": 586933,
+      "growth_pct": -10.1,
+      "trust_score": 62.3,
+      "volume_index": 52.22817216156219,
+      "velocity_index": 100.0,
+      "trust_index": 62.3,
+      "priority_score": 73.4,
+      "quadrant": "High-Growth Star (Priority 1: GO)",
+      "action_recommendation": "Strong volume and clean momentum. Launch localization.",
+      "rank": 2
+    },
+    {
+      "lang": "es",
+      "article_title": "Idioma_inglés",
+      "views": 732632,
+      "growth_pct": -28.85,
+      "trust_score": 73.6,
+      "volume_index": 71.86598214658775,
+      "velocity_index": 44.24620874219446,
+      "trust_index": 73.6,
+      "priority_score": 61.2,
+      "quadrant": "Steady Evergreen Niche (Priority 2)",
+      "action_recommendation": "Reliable base audience with stable demand. Low risk.",
+      "rank": 3
+    },
+    {
+      "lang": "pl",
+      "article_title": "Język_angielski",
+      "views": 213863,
+      "growth_pct": -20.63,
+      "trust_score": 74.7,
+      "volume_index": 1.944520447319225,
+      "velocity_index": 68.68867082961641,
+      "trust_index": 74.7,
+      "priority_score": 43.2,
+      "quadrant": "Emerging Prospect (Priority 3: Monitor)",
+      "action_recommendation": "Moderate potential. Observe for 1-2 quarters.",
+      "rank": 4
+    },
+    {
+      "lang": "uk",
+      "article_title": "Англійська_мова",
+      "views": 199436,
+      "growth_pct": -43.73,
+      "trust_score": 63.4,
+      "volume_index": 0.0,
+      "velocity_index": 0.0,
+      "trust_index": 63.4,
+      "priority_score": 12.7,
+      "quadrant": "Declining / Underperforming (NO-GO)",
+      "action_recommendation": "Insufficient volume or negative momentum. Avoid investment.",
+      "rank": 5
+    }
+  ],
+  "artifacts": {
+    "chart_png": "reports/scenario_3_language_app/scenario_3_language_app_chart.png",
+    "executive_pdf": "reports/scenario_3_language_app/scenario_3_language_app_report.pdf"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "target_topic": "Intermittent fasting",
+  "timeframe": {
+    "start": "20240926",
+    "end": "20260926",
+    "years": 2.0
+  },
+  "benchmark_topic": null,
+  "tam_proxy": {
+    "rai": 0.6667,
+    "tam_proxy_usd": 5666950.0,
+    "relative_share_pct": 40.0,
+    "market_scale_category": "Viable Niche (25-75% of benchmark)",
+    "target_views": 1182,
+    "benchmark_views": 1773
+  },
+  "results_by_language": {
+    "pl": {
+      "status": "INSUFFICIENT_DATA",
+      "article_title": "Głodówka",
+      "is_exact_sitelink": true,
+      "total_views": 1182,
+      "mean_daily_views": 1.8,
+      "cagr": 0.0,
+      "trend_direction": "Stable / Plateau (Mature Interest)",
+      "theil_sen_slope_daily": 0.0,
+      "trust_score": 50.4,
+      "trust_level": "Speculative / Low Trust",
+      "bot_ratio": 0.4018,
+      "academic_seasonality_index": 1.27,
+      "seasonality_type": "Moderate Academic Cyclical",
+      "spikes_detected": 12,
+      "recommendation": "Signal is noisy or driven by short-lived media hype. Validate with a lightweight ad test.",
+      "trust_audit": {
+        "trust_score": 50.4,
+        "trust_level": "Speculative / Low Trust",
+        "recommendation": "Signal is noisy or driven by short-lived media hype. Validate with a lightweight ad test.",
+        "sub_scores": {
+          "human_integrity_score": 59.8,
+          "organic_continuity_score": 93.8,
+          "community_curation_score": 5.0,
+          "macro_outperformance_score": 75.0
+        },
+        "penalties": [
+          "Low total sample size (1182 views): Prone to sampling volatility."
+        ]
+      }
+    },
+    "cs": {
+      "status": "INSUFFICIENT_DATA",
+      "article_title": "Přerušovaný_půst",
+      "is_exact_sitelink": true,
+      "total_views": 6684,
+      "mean_daily_views": 9.2,
+      "cagr": -57.54,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.0114,
+      "trust_score": 40.0,
+      "trust_level": "Speculative / Low Trust",
+      "bot_ratio": 0.2513,
+      "academic_seasonality_index": 1.68,
+      "seasonality_type": "Strong Academic / School Cyclical (Demand peaks in school year, dips in summer)",
+      "spikes_detected": 45,
+      "recommendation": "Signal is noisy or driven by short-lived media hype. Validate with a lightweight ad test.",
+      "trust_audit": {
+        "trust_score": 40.0,
+        "trust_level": "Speculative / Low Trust",
+        "recommendation": "Signal is noisy or driven by short-lived media hype. Validate with a lightweight ad test.",
+        "sub_scores": {
+          "human_integrity_score": 74.9,
+          "organic_continuity_score": 71.4,
+          "community_curation_score": 5.0,
+          "macro_outperformance_score": 25.0
+        },
+        "penalties": [
+          "High academic seasonality (ASI=1.68): Traffic spikes during school months and crashes in summer."
+        ]
+      }
+    }
+  },
+  "localization_ranking": [
+    {
+      "lang": "pl",
+      "article_title": "Głodówka",
+      "views": 1182,
+      "growth_pct": 0.0,
+      "trust_score": 50.4,
+      "volume_index": 0.0,
+      "velocity_index": 100.0,
+      "trust_index": 50.4,
+      "priority_score": 50.1,
+      "quadrant": "Emerging Prospect (Priority 3: Monitor)",
+      "action_recommendation": "Moderate potential. Observe for 1-2 quarters.",
+      "rank": 1
+    },
+    {
+      "lang": "cs",
+      "article_title": "Přerušovaný_půst",
+      "views": 6684,
+      "growth_pct": -57.54,
+      "trust_score": 40.0,
+      "volume_index": 100.0,
+      "velocity_index": 0.0,
+      "trust_index": 40.0,
+      "priority_score": 48.0,
+      "quadrant": "Emerging Prospect (Priority 3: Monitor)",
+      "action_recommendation": "Moderate potential. Observe for 1-2 quarters.",
+      "rank": 2
+    }
+  ],
+  "artifacts": {
+    "chart_png": "reports/scenario_1_fasting/scenario_1_fasting_chart.png",
+    "executive_pdf": "reports/scenario_1_fasting/scenario_1_fasting_report.pdf"
+  }
+}

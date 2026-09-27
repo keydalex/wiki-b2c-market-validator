@@ -1,0 +1,70 @@
+{
+  "target_topic": "Астрономія",
+  "timeframe": {
+    "start": "20240926",
+    "end": "20260926",
+    "years": 2.0
+  },
+  "benchmark_topic": "Фізика",
+  "tam_proxy": {
+    "rai": 0.7481,
+    "tam_proxy_usd": 6358850.0,
+    "relative_share_pct": 42.79,
+    "market_scale_category": "Viable Niche (25-75% of benchmark)",
+    "target_views": 19890,
+    "benchmark_views": 26588
+  },
+  "results_by_language": {
+    "uk": {
+      "status": "SUCCESS",
+      "article_title": "Астрономія",
+      "is_exact_sitelink": true,
+      "total_views": 19890,
+      "mean_daily_views": 27.2,
+      "cagr": -83.71,
+      "trend_direction": "Declining (Waning Consumer Interest)",
+      "theil_sen_slope_daily": -0.0509,
+      "trust_score": 56.2,
+      "trust_level": "Moderate Trust",
+      "bot_ratio": 0.3501,
+      "academic_seasonality_index": 3.0,
+      "seasonality_type": "Strong Academic / School Cyclical (Demand peaks in school year, dips in summer)",
+      "spikes_detected": 81,
+      "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+      "trust_audit": {
+        "trust_score": 56.2,
+        "trust_level": "Moderate Trust",
+        "recommendation": "Solid signal, but account for moderate seasonality or traffic spikes in projections.",
+        "sub_scores": {
+          "human_integrity_score": 65.0,
+          "organic_continuity_score": 73.9,
+          "community_curation_score": 100.0,
+          "macro_outperformance_score": 25.0
+        },
+        "penalties": [
+          "High academic seasonality (ASI=3.00): Traffic spikes during school months and crashes in summer."
+        ]
+      }
+    }
+  },
+  "localization_ranking": [
+    {
+      "lang": "uk",
+      "article_title": "Астрономія",
+      "views": 19890,
+      "growth_pct": -83.71,
+      "trust_score": 56.2,
+      "volume_index": 50.0,
+      "velocity_index": 50.0,
+      "trust_index": 56.2,
+      "priority_score": 51.2,
+      "quadrant": "Emerging Prospect (Priority 3: Monitor)",
+      "action_recommendation": "Moderate potential. Observe for 1-2 quarters.",
+      "rank": 1
+    }
+  ],
+  "artifacts": {
+    "chart_png": "reports/scenario_2_astronomy/scenario_2_astronomy_chart.png",
+    "executive_pdf": "reports/scenario_2_astronomy/scenario_2_astronomy_report.pdf"
+  }
+}
